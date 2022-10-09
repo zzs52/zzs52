@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on Northeastern University. I will graduate in 2024.
-- 🌱 I’m currently learning distributed systems..
+- 🌱 I'm currently working on backend R&D at Authing.
 - 📫 You can reach me by email: obizazishen@gmail.com
 <!--
 - 👯 I’m looking to collaborate on ...
